@@ -38,6 +38,12 @@ Scores weight the things that actually determine whether a server runs well, not
 4. **Backups, panel, and modpack support** — recoverability and day-to-day usability.
 5. **Honest pricing** — the true entry cost, not a promo rate that resets on renewal.
 
+## Sponsored
+
+> **Paid placement — not part of the ranking above.** The listing below is a sponsored partner. It has **not** been independently tested or scored, and it holds **no ranked position**. Specifications are provided by the vendor and not verified by us.
+
+- **[GODLIKE — godlike.host](https://godlike.host)** *(Sponsored)* — AMD Ryzen 9 9950X3D nodes, 192 GB DDR5, PCIe Gen5 NVMe, 9 global locations (New Jersey, Los Angeles, Dallas, Netherlands, Finland, Canada, Australia, India, Singapore). Specs vendor-provided, not independently tested. Full listing: [gamehostingguides.com/partners/godlike-host](https://gamehostingguides.com/partners/godlike-host/)
+
 ## Guides
 
 Deeper buying advice from the same team:
